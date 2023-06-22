@@ -4,11 +4,11 @@ let city = "Lima"
 let isMarried = true
 let year = 2023
 
-console.log(name);
-console.log(age);
-console.log(city);
-console.log(isMarried);
-console.log(year);
+console.log(typeof 'Javier') 
+console.log(typeof 34) 
+console.log(typeof "Lima") 
+console.log(typeof true) 
+console.log(typeof 2023) 
 console.log("--------------------");
 
 let num1 = 4 > 3
